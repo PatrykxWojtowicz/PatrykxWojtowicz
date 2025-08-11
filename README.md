@@ -1,16 +1,15 @@
-## Hi there 👋
+# Cześć, jestem Patryk Wójtowicz! 👋
 
-<!--
-**PatrykxWojtowicz/PatrykxWojtowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded |  C++  | Arduino | ESP32 | Raspberry Pi | Codesys | 
 
-Here are some ideas to get you started:
+## 🔧 Moje Projekty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠️ Technologie
+C++, Arduino IDE, PlatformIO, Autodesk Inventor, Autodesk Fusion 360, Linux, ESP32, Raspberry pi, 
+
+## 📫 Kontakt
+- LinkedIn: https://www.linkedin.com/in/patryk-w%C3%B3jtowicz-0aa272361/
+- Email: patrykwojt11@gmail.com
