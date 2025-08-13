@@ -15,6 +15,8 @@
 - 📡 IoT Sensor Network
 - 🤖 WiFi-controlled Robot
 
+### FIZYKA & MATEMATYKA(coming soon...)
+
 ## 🛠️ Technologie
 **Programming:** C++, Arduino IDE, PlatformIO  
 **Hardware:** ESP32, Raspberry Pi, Arduino  
