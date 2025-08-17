@@ -17,6 +17,9 @@
 
 ### FIZYKA & MATEMATYKA(coming soon...)
 
+### PLC 
+
+
 ## 🛠️ Technologie
 **Programming:** C++, Arduino IDE, PlatformIO  
 **Hardware:** ESP32, Raspberry Pi, Arduino  
